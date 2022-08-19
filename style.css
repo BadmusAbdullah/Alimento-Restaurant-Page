@@ -1,0 +1,35 @@
+body {
+	padding-top: 1rem;
+}
+header h2 {
+	font-family: "Lobster", cursive;
+}
+header button {
+	background-color: #e07c15;
+	padding: 0.3rem 1rem;
+	border: none;
+	color: white;
+}
+a {
+	text-decoration: none;
+	color: black;
+}
+main {
+	margin-top: 5rem;
+}
+.btn-outline-secondary,
+.btn {
+	background-color: #e07c15;
+	color: white;
+}
+h5 {
+	color: #e07c15;
+}
+footer {
+	margin-top: 5rem;
+	background: #f4f4f4;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 2rem 0;
+}
